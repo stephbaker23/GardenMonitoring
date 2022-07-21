@@ -1,3 +1,5 @@
+// This code was prepared by Stephanie Baker for James Cook University
+// Use as starter code for Wi-Fi connectivity
 
 void setup() {
   // Establish serial communications
