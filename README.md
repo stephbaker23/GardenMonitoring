@@ -1,2 +1,2 @@
 # GardenMonitoring
-Starter code related to the garden monitoring project at JCU
+Starter code and instruction booklets relating to the garden monitoring project at JCU
